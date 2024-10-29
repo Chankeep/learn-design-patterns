@@ -1,13 +1,18 @@
 # learn-design-patterns
 Design patterns in C++
 
+---
+
 ## Creational Patterns
 - [x] Simple Factory
-- [ ] Factory Method
-- [ ] Abstract Factory
+- [x] Factory Method
+- [x] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
-- [ ] Singleton
+- [x] Singleton
+  - [x] Lazy
+  - [x] Eager
+  - [x] Meyer's
 
 ## Structural Patterns
 - [ ] Adapter

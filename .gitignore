@@ -69,3 +69,47 @@ build/CMakeFiles/designPatterns.dir/link.txt
 build/CMakeFiles/designPatterns.dir/linkLibs.rsp
 build/CMakeFiles/designPatterns.dir/objects1.rsp
 build/CMakeFiles/designPatterns.dir/progress.make
+/cmake-build-debug/
+.idea/.gitignore
+.idea/.name
+.idea/learn-design-patterns.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+out/build/GCC 11.2.0 x86_64-w64-mingw32/cmake_install.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeCache.txt
+out/build/GCC 11.2.0 x86_64-w64-mingw32/Makefile
+out/build/GCC 11.2.0 x86_64-w64-mingw32/.cmake/api/v1/query/client-vscode/query.json
+out/build/GCC 11.2.0 x86_64-w64-mingw32/.cmake/api/v1/reply/cache-v2-b20ee2eb9a8adac9645f.json
+out/build/GCC 11.2.0 x86_64-w64-mingw32/.cmake/api/v1/reply/cmakeFiles-v1-c2155bd704e5489d4a0c.json
+out/build/GCC 11.2.0 x86_64-w64-mingw32/.cmake/api/v1/reply/codemodel-v2-260774636a753f8af8b7.json
+out/build/GCC 11.2.0 x86_64-w64-mingw32/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json
+out/build/GCC 11.2.0 x86_64-w64-mingw32/.cmake/api/v1/reply/index-2024-10-29T13-25-39-0631.json
+out/build/GCC 11.2.0 x86_64-w64-mingw32/.cmake/api/v1/reply/target-designPatterns-Debug-bdfdecb9e6980bbe3be2.json
+out/build/GCC 11.2.0 x86_64-w64-mingw32/.cmake/api/v1/reply/toolchains-v1-ce57407ebc4680f52508.json
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/cmake.check_cache
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/CMakeConfigureLog.yaml
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/CMakeDirectoryInformation.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/Makefile.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/Makefile2
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/progress.marks
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/TargetDirectories.txt
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/3.31.0-rc2/CMakeCCompiler.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/3.31.0-rc2/CMakeCXXCompiler.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/3.31.0-rc2/CMakeDetermineCompilerABI_C.bin
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/3.31.0-rc2/CMakeDetermineCompilerABI_CXX.bin
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/3.31.0-rc2/CMakeRCCompiler.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/3.31.0-rc2/CMakeSystem.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/3.31.0-rc2/CompilerIdC/CMakeCCompilerId.c
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/3.31.0-rc2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/build.make
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/cmake_clean.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/compiler_depend.make
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/compiler_depend.ts
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/depend.make
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/DependInfo.cmake
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/flags.make
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/link.txt
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/linkLibs.rsp
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/objects1.rsp
+out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/designPatterns.dir/progress.make
