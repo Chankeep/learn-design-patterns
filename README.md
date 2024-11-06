@@ -53,14 +53,14 @@
 
 ## 🔧 Structural Patterns
 
-### ⏳ Adapter
+### ✅ Adapter
 > Adapter pattern lets you wrap an otherwise incompatible object in an adapter to make it compatible with another class.
 
 💡 **When to use**:
 - When you want to use an existing class with an incompatible interface
 - When you need to integrate new and legacy code
 
-### ⏳ Bridge
+### ✅ Bridge
 > Bridge pattern is about preferring composition over inheritance. Implementation details are pushed from a hierarchy to another object with a separate hierarchy.
 
 💡 **When to use**:
